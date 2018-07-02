@@ -1,4 +1,5 @@
-# Deploy on Day One
+git remote set-url origin
+https://github.com/shaw-newman13/vfa-deploy-on-day-1-vfa-2018# Deploy on Day One
 
 ## Contents
 
